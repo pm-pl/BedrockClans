@@ -4,10 +4,6 @@ An advanced PocketMine-MP clan plugin with many creative features.
 <br>The .phar can be found on <a href="https://poggit.pmmp.io/ci/Wertzui123/BedrockClans/BedrockClans/">Poggit</a>.
 </p>
 
-# JetBrains PHPStorm
-JetBrains supports me in the development of BedrockClans.
-<br>I can highly recommend <a href="https://jetbrains.com?from=BedrockClans">their products</a>.
-
 # Features
 * Highly customizable
 * Multiple different clan ranks
@@ -81,7 +77,7 @@ You can contact me by <a href="https://discord.gg/azPt6eJ">joining my Discord se
 # License
 BedrockClans is licensed under the GNU General Public License v3.0.
 <br>For more information: https://choosealicense.com/licenses/gpl-3.0
-<br><code>© 2019 - 2025 Wertzui123</code>
+<br><code>© 2019 - 2026 Wertzui123</code>
 
 # Credits
 BedrockClans was written by Wertzui123.
